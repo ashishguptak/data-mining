@@ -1,2 +1,3 @@
 # data-mining
-applying data mining techniques for Income survey data namely data preprocessing and feature extraction techniques and implemented Euclidean and Manhattan distance measures.
+
+This project involved analysis on US Income and other datasets – includes data cleaning, feature extraction, Classification using KNN Classifier and K-Means Clustering
